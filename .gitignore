@@ -1,0 +1,14 @@
+# python
+__pycache__/
+*.pyc
+
+# pyinstaller
+build/
+dist/
+
+# the built exe is published through Releases, not the repo
+WorldForge.exe
+
+# local test output
+st.png
+testworld/
