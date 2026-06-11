@@ -28,7 +28,7 @@ Press the blue Export Minecraft world button. Pick a name, a size and a destinat
 
 The world is written in the Java Edition 1.18.2 format on purpose. Minecraft opens worlds from older versions and upgrades them by itself, so this one format works in 1.18.2 and everything newer, including 1.20, 1.21 and the latest versions. Versions older than 1.18.2 can not open it.
 
-Good to know: the exported terrain has no caves or ores. Underground is plain stone, so the worlds are best for exploring and building. Large worlds may take several minutes to export.
+Good to know: the exported terrain has no caves or ores. Underground is plain stone, it is purely for exprementation, future updates might such features.
 
 ## Run from source
 
